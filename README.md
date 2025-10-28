@@ -103,7 +103,7 @@ Designed an interactive dashboard in **Excel**, using slicers for month, campaig
 This project demonstrates the power of **data-driven marketing** through Excel dashboard analytics.  
 By leveraging insights from this analysis, **AdSpark Media** can strategically optimize ad spend, enhance audience targeting, and improve overall campaign ROI.
 
-The project highlights how **structured data analysis and visualization** can transform raw marketing data into actionable insights — driving smarter, more profitable campaigns.
+The project highlights how **structured data analysis and visualization** can transform raw marketing data into actionable insights, driving smarter, more profitable campaigns.
 
 ---
 
