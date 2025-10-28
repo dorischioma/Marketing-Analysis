@@ -4,7 +4,7 @@
 
 **AdSpark Media**, a digital marketing agency specializing in multi-channel advertising, ran several marketing campaigns across **Facebook, Instagram, and Pinterest** to promote their clients’ products and services.
 
-The goal of this project was to analyze marketing performance data to uncover which platforms, locations, and ad creatives delivered the best results — and how to optimize ad spend for future campaigns.
+The goal of this project was to analyze marketing performance data to uncover which platforms, locations, and ad creatives delivered the best results, and how to optimize ad spend for future campaigns.
 
 This analysis explores **campaign performance metrics** such as impressions, clicks, conversions, engagement, ROI, and revenue trends.  
 The insights were visualized using **Microsoft Excel**, resulting in a professional dashboard supporting data-driven marketing decisions.
