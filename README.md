@@ -56,7 +56,7 @@ Designed an interactive dashboard in **Excel**, using slicers for month, campaig
 
 ## Dashboard Preview
 
-![Market Campaign Dashboard](./5cf0218e-c1aa-439d-be5b-7d7af532469c.png)
+![Market Campaign Dashboard](https://github.com/dorischioma/Marketing-Campaign-Performance-Analysis/blob/main/MARKETING%202.png)  
 
 ### Dashboard Highlights
 -  **Revenue:** £1.73M  
