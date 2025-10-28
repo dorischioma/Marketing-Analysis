@@ -69,7 +69,7 @@ Designed an interactive dashboard in **Excel**, using slicers for month, campaig
 
 ---
 
-## 🔍 Key Insights
+## Key Insights
 
 📍 **Instagram** delivered the **highest ROI and profit**, followed by **Pinterest**.  
 📍 **Fall campaigns** outperformed Spring and Summer in total revenue generation.  
